@@ -1,5 +1,2 @@
 # udemy-reactjs
-
-
-![Customer Grid](/udemy-reactjs//tree/master/public/dashboard.png?raw=true "Customer Grid")
-udemy-reactjs/tree/master/public
+![alt text](https://github.com/pvin/udemy-reactjs/blob/master/dashboard.png?raw=true)
